@@ -1,2 +1,3 @@
 # heart-disease-classification
-Classification Problem (Heart Disease) predicting 
+Heart Disease prediction using the knn classifier 
+and som visual analysis and model evaluation
